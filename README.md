@@ -6,4 +6,4 @@
  > - İzzet ŞARK - 21733232
  
 ### Project Description:
- > - Build and deploy a python web app with postgreSQL
+ > - Country-based analysis and mapping of covid cases in the world
