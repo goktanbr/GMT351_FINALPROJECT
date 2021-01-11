@@ -7,4 +7,4 @@
  
 ### Project Description:
  > - Build & Deploy A Python Web App  
- > - Flask, PostgreSQL & Heroku
+ > - Using Flask, PostgreSQL & Heroku
