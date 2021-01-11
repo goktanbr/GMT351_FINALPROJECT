@@ -6,5 +6,5 @@
  > - İzzet ŞARK - 21733232
  
 ### Project Description:
- > - Country-based analysis and mapping of covid cases in the world
- > - We used PostgreSQL for data storage, uMap for visualization on the map. 
+ > - Build & Deploy A Python Web App  
+ > - Flask, PostgreSQL & Heroku
