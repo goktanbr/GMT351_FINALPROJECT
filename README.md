@@ -7,3 +7,4 @@
  
 ### Project Description:
  > - Country-based analysis and mapping of covid cases in the world
+ > - We used PostgreSQL for data storage, uMap for visualization on the map. 
