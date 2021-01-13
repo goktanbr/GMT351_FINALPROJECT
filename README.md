@@ -4,7 +4,8 @@
  > - Göktan ATAY - 21732843
  > - Muhammed Yusuf AKBABA -21732799
  > - İzzet ŞARK - 21733232
+ > - Yusuf Eren Erdil - 21733059
  
 ### Project Description:
  > - Build & Deploy A Python Web App  
- > - Using Flask, PostgreSQL & Heroku
+ > - Using Flask, PostgreSQL, Mailtrap
